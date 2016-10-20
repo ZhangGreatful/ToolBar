@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranslucentSystemBar</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_notification">通知</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about">关于</string>
+</resources>
